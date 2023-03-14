@@ -6,6 +6,8 @@ var welcome = function (name) {
 welcome("vera");
 welcome("Adrian");
 welcome("Aida");
+welcome("Jimmy");
+welcome("Jommy");
 
 //parameters branch
 var addTogether = function (num1, num2) {
